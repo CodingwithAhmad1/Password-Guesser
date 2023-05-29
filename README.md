@@ -1,2 +1,2 @@
 # Password-Guesser-numbers-
-This repo contains Python code that guesses a password through brute force.
+This repo contains Python code that guesses an integer password through brute force.
